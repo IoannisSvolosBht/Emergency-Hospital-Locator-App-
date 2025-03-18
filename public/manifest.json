@@ -1,0 +1,25 @@
+{
+  "short_name": "React App", // Kurzer Name der Anwendung
+  "name": "Create React App Sample", // Vollständiger Name der Anwendung
+  "icons": [
+    {
+      "src": "favicon.ico", // Favicon der Anwendung
+      "sizes": "64x64 32x32 24x24 16x16", // Verschiedene Größen des Favicons
+      "type": "image/x-icon" // MIME-Typ des Favicons
+    },
+    {
+      "src": "logo192.png", // Logo in 192x192 Pixel
+      "type": "image/png", // MIME-Typ des Logos
+      "sizes": "192x192" // Größe des Logos
+    },
+    {
+      "src": "logo512.png", // Logo in 512x512 Pixel
+      "type": "image/png", // MIME-Typ des Logos
+      "sizes": "512x512" // Größe des Logos
+    }
+  ],
+  "start_url": ".", // Start-URL der Anwendung
+  "display": "standalone", // Anzeigemodus der Anwendung (standalone = wie eine native App)
+  "theme_color": "#000000", // Farbe des Themes der Anwendung
+  "background_color": "#ffffff" // Hintergrundfarbe der Anwendung
+}
